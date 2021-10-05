@@ -5,7 +5,7 @@ commands in the terminal
 ```zsh
 heroku apps:create mypurplefoodapp
  
-heroku config:set DB_URL="mongodb+srv://rbell9:7uEzwFWIBUEFaCNs@myappdb.h0itf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority&useNewUrlParser=true&useUnifiedTopology=true"
+heroku config:set DB_URL="mongodb+srv://romebell:alksdmadfadyappdb.h0itf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority&useNewUrlParser=true&useUnifiedTopology=true"
  
 heroku config:set JWT_SECRET=thisismytoken
  
